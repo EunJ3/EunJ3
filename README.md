@@ -42,7 +42,7 @@
 
 - **Email**: drshan0046@gmail.com  
 - **GitHub**: [https://github.com/EunJ3](https://github.com/EunJ3)  
-- **Notion Portfolio**: (https://opposite-cartwheel-b9b.notion.site/202f8471381580c7b8ebd0de5f692f87?source=copy_link)
+- **Notion Portfolio**: https://opposite-cartwheel-b9b.notion.site/202f8471381580c7b8ebd0de5f692f87?source=copy_link
 
 
 ## Github Stats
